@@ -1,2 +1,8 @@
-# Driver-Safety
-This project aims to detect driver drowsiness in real-time using a computer vision approach. The system will use a webcam to capture the driver's face and analyze facial features to determine if the driver is showing signs of drowsiness.
+# Driver Safety Detection
+A system which alarms the driver as soon as it detects that the driver is becoming drowsy to prevent any accident.
+
+Steps to run :
+
+= Inside the main folder, open a terminal and run => python3 final-integration.py
+
+Working : 
