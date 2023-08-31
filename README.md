@@ -6,3 +6,7 @@ Steps to run :
 = Inside the main folder, open a terminal and run => python3 final-integration.py
 
 Working : 
+
+if there is any doubt let me know by linkdin or mail me diretly
+email - Rahulsingh111956@gmail.com
+linkdin- https://www.linkedin.com/in/rahulsiworking
